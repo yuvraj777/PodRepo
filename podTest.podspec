@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/nikunjagola/podTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'nikunjagola' => 'abhijit.soni@tatvasoft.com' }
+  s.author           = { 'yuvraj' => 'yuvrajsinh777@gmail.com' }
   s.source           = { :git => 'https://github.com/nikunjagola/podTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
